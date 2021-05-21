@@ -6,3 +6,5 @@ Carrera: tecnologías de la Información
 Área: Desarrollo de software multiplataforma
 Turno: Matutino
 Docente: José Christian Narváez Figueroa
+Objetivo materia: Desarrollar aplicaciones que puedan ser desplegadas en internet
+Competencia: Algun texto as para rellenar 
